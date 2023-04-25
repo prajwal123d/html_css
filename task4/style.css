@@ -1,0 +1,35 @@
+*{
+    margin:6px;
+    padding: 6px;
+}
+body{
+    background-color: #b09e9e37;
+    
+
+}
+.para1{
+    background-image: url(feather.jpg);
+    text-align: right;
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: auto;
+    background-image: left;
+    height: 250px;
+    
+}
+.container{
+    background-color: #fff;
+    border: 2px solid rgb(162, 149, 149);
+    
+}
+h3{
+    color: rgba(156, 139, 139, 0.771);
+}
+nav a{
+    
+    text:right;
+    color: black;
+}
+h1{
+    color: antiquewhite;
+}

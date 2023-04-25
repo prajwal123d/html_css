@@ -1,0 +1,54 @@
+.details{
+    margin-bottom: 10px;
+}
+*{
+    
+    margin:10px;
+    padding:10px;
+}
+.ok{
+    background-color: grey;
+    border: 1px solid grey;
+    width:400px;
+    
+    
+}
+body{
+    height:100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background:linear-gradient(135deg,#71b7e6,#9b59b6);
+}
+.form{
+    background-color:#fff;
+    margin-right: 30%   ;
+    margin-left: 30%;  
+    margin-top: 30%;
+    margin-bottom: 30%;
+     
+     
+}
+.ho{
+    text-align: left;
+}
+.heading{
+    margin: 4px;
+    text-align: center;
+    margin-top: -50px;
+    margin-left: auto;
+    margin-right: auto;
+    width:400px;
+    text-align: top;
+    background-color: grey;
+
+}
+.submit{
+    background-color: rgb(45, 45, 101);
+    width:410px;
+}
+
+ .heading .details{
+    background-color: grey;
+    
+}

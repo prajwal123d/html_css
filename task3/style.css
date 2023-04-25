@@ -1,0 +1,42 @@
+.imgsite{
+    background-image: url(img1.jpg);
+   width: 100%;
+height:400px;
+color:white;
+background-position: center center;
+background-repeat: no-repeat;
+background-size: cover;
+text-align:center;
+    
+   
+   
+}
+h2{
+    color:rgba(116, 220, 116, 0.523);
+}
+UL{
+    display: flex;
+    
+}
+ul  li a{
+    color:#fff;
+    text-shadow: none;
+    
+    
+}
+*{
+    margin:4px;
+    padding: 4px;
+}
+body{
+    background-color: black;
+    border: 4px solid  black;
+    text-decoration: none;
+}
+.container
+    {
+        background-color: black;
+}
+.downpage{
+    background-color: white;
+}

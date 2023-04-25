@@ -1,0 +1,49 @@
+.headingbox{
+background: url(header\ \(1\).jpg);
+width:100%;
+height:300px;
+background-repeat: no-repeat;
+text-align: right;
+background-size: cover;
+
+}
+ li{ 
+    /* border-bottom: 1px solid black; */
+    list-style: none;
+    /* padding: 10px; */
+}
+ul{
+    width: 100%;
+    height:100%;
+}
+a{
+    width: 100%;
+    text-decoration: none;
+    color: #fff;
+    border-bottom: 1px solid black;
+    display: block;
+}
+
+ .aa{
+    background-color: antiquewhite;
+    width:80%;
+ }
+
+.ok{
+background-color: lightgreen;
+display: right;
+display: flex;
+width:20%;
+}
+.box{
+    display: flex;
+}
+
+*{
+    margin: 4px;
+    padding: 4px;
+}
+body{
+    height:500px;
+    width:100%;
+}
